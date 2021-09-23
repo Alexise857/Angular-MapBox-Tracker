@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  mapBoxKey: 'pk.eyJ1IjoiYWxleGlzbGVlIiwiYSI6ImNrdGVwY252dzAwajUyb3Fqb3pmaW94bzIifQ.DVC2zaichkkYDVd7TcSj3g',
+  urlSatellites: 'https://api.wheretheiss.at/v1/satellites/25544'
 };
 
 /*
